@@ -1,0 +1,2 @@
+this a simple python game based on python's turtle library
+the orignal credits of this game goes to the creators and freecodecamp.org youtube channel.
